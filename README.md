@@ -2,7 +2,9 @@
 使用taro-nutui4+vue3+ts+pinia+husky搭建的通用小程序,H5模版,开箱即用.
 ## 一.项目安装
 ```bash
-# 拉取项目后 进入项目目录
+# 拉取项目
+ git clone https://github.com/
+# 进入项目目录
 cd taro-vue3-nut4
 # 安装依赖
  npm i
