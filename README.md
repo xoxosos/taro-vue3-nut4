@@ -1,5 +1,5 @@
 # taro-vue3-nut4
-使用taro-nutui4+vue3+ts+pinia+husky搭建的通用小程序,H5模版,开箱即用.
+使用taro-nutui4 + vue3 + ts + pinia/vuex + husky搭建的通用小程序,H5模版,开箱即用.
 ## 一.项目安装
 ```bash
 # 克隆项目 https
